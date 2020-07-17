@@ -24,7 +24,7 @@ baseurl: /huai
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: file:///C:/Users/Mige%20Gong/Desktop/IMG_8470(20200716-210741).JPG
+avatar: https://500px.com/photo/1018857140/1-by-Mige-Gong/
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
